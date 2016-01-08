@@ -1,5 +1,8 @@
 <application>
   <component name="FindSettings">
+    <option name="customScope" value="File 'C:\Dev\ESV3\octopus\enovacom-ecm\roles\core\src\main\java\fr\enovacom\osgi\roles\service\service\DefaultEnovacomUserService.java'" />
+    <option name="defaultScopeName" value="File 'C:\Dev\ESV3\octopus\enovacom-ecm\roles\core\src\main\java\fr\enovacom\osgi\roles\service\service\DefaultEnovacomUserService.java'" />
+    <option name="SEARCH_SCOPE" value="File 'C:\Dev\ESV3\octopus\enovacom-ecm\roles\core\src\main\java\fr\enovacom\osgi\roles\service\service\DefaultEnovacomUserService.java'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.jsp</mask>
