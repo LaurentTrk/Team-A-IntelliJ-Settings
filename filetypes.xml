@@ -1,0 +1,8 @@
+<application>
+  <component name="FileTypeManager" version="16">
+    <extensionMap>
+      <mapping pattern="todo" type="PLAIN_TEXT" />
+      <mapping ext="5" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>

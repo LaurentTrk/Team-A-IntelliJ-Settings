@@ -1,0 +1,7 @@
+<application>
+  <component name="PathMacrosImpl">
+    <macro name="EAS_HOME" value="C:/Dev/enovacom-application-server" />
+    <macro name="MAVEN_REPOSITORY" value="C:/Users/lturek/.m2/repository" />
+    <macro name="KOTLIN_BUNDLED" value="C:\Program Files (x86)\JetBrains\IntelliJ IDEA Community Edition 15.0.2\plugins\Kotlin\kotlinc" />
+  </component>
+</application>

@@ -1,0 +1,18 @@
+<application>
+  <component name="FindSettings">
+    <recentFileMasks>
+      <mask>*.properties</mask>
+      <mask>*.jsp</mask>
+      <mask>*.xml</mask>
+      <mask>*.java</mask>
+      <mask>*.as</mask>
+      <mask>*.css</mask>
+      <mask>*.mxml</mask>
+      <mask>features.xml</mask>
+      <mask>feature.xml</mask>
+      <mask>pom.xml</mask>
+      <mask>*.js</mask>
+      <mask>*.html</mask>
+    </recentFileMasks>
+  </component>
+</application>
