@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Module 'enovacom-roles'" />
-    <option name="defaultScopeName" value="Module 'enovacom-roles'" />
-    <option name="SEARCH_SCOPE" value="Module 'enovacom-roles'" />
+    <option name="customScope" value="Module 'enovacom-activemq'" />
+    <option name="defaultScopeName" value="Module 'enovacom-activemq'" />
+    <option name="SEARCH_SCOPE" value="Module 'enovacom-activemq'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.jsp</mask>
