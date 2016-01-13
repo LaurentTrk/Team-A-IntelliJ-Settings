@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Module 'activemq-api'" />
-    <option name="defaultScopeName" value="Module 'activemq-api'" />
-    <option name="SEARCH_SCOPE" value="Module 'activemq-api'" />
+    <option name="customScope" value="Module 'fr.enovacom.osgi.activemq.client'" />
+    <option name="defaultScopeName" value="Module 'fr.enovacom.osgi.activemq.client'" />
+    <option name="SEARCH_SCOPE" value="Module 'fr.enovacom.osgi.activemq.client'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.jsp</mask>
