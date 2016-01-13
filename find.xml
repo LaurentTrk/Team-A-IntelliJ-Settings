@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File 'C:\Dev\ESV3\octopus\enovacom-activemq\activemq-client\src\main\java\fr\enovacom\osgi\activemq\client\ClientFactory.java'" />
-    <option name="defaultScopeName" value="File 'C:\Dev\ESV3\octopus\enovacom-activemq\activemq-client\src\main\java\fr\enovacom\osgi\activemq\client\ClientFactory.java'" />
-    <option name="SEARCH_SCOPE" value="File 'C:\Dev\ESV3\octopus\enovacom-activemq\activemq-client\src\main\java\fr\enovacom\osgi\activemq\client\ClientFactory.java'" />
+    <option name="customScope" value="Module 'fr.enovacom.osgi.activemq.client'" />
+    <option name="defaultScopeName" value="Module 'fr.enovacom.osgi.activemq.client'" />
+    <option name="SEARCH_SCOPE" value="Module 'fr.enovacom.osgi.activemq.client'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.jsp</mask>
