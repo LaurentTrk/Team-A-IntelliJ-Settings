@@ -1,4 +1,15 @@
 <application>
+  <component name="localAnalysisScripts">
+    <option name="beans">
+      <list>
+        <LocalAnalysisScript>
+          <option name="name" value="Sonar " />
+          <option name="pathToSonarReport" value="$WORKING_DIR/target/sonar/sonar-report.json" />
+          <option name="sourceCode" value="&quot;C:\Program Files (x86)\JetBrains\IntelliJ IDEA Community Edition 15.0.2\plugins\maven\lib\maven2\bin\mvn.bat&quot; sonar:sonar -DskipTests=true -Dsonar.language=java  -Dsonar.analysis.mode=incremental -Dsonar.host.url=$SONAR_HOST_URL" />
+        </LocalAnalysisScript>
+      </list>
+    </option>
+  </component>
   <component name="sonarServers">
     <option name="beans">
       <list>
