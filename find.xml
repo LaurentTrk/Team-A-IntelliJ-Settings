@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Module 'fr.enovacom.osgi.runtime.roles.core'" />
-    <option name="defaultScopeName" value="Module 'fr.enovacom.osgi.runtime.roles.core'" />
-    <option name="SEARCH_SCOPE" value="Module 'fr.enovacom.osgi.runtime.roles.core'" />
+    <option name="customScope" value="Module 'fr.enovacom.osgi.stack.roles.api'" />
+    <option name="defaultScopeName" value="Module 'fr.enovacom.osgi.stack.roles.api'" />
+    <option name="SEARCH_SCOPE" value="Module 'fr.enovacom.osgi.stack.roles.api'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.jsp</mask>
