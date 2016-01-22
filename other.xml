@@ -81,6 +81,30 @@
       <option name="ENABLED" value="true" />
     </filter>
   </component>
+  <component name="RecentTaskRepositories">
+    <Trello shared="false">
+      <commitMessageFormat>{id} {summary}</commitMessageFormat>
+      <option name="currentBoard">
+        <TrelloBoard id="569ce7c1972f2c6caa178691" name="TEAM A" />
+      </option>
+      <option name="currentList">
+        <TrelloList id="ILLEGAL_ID" name="-- from all lists --" />
+      </option>
+      <option name="currentUser">
+        <TrelloUser id="514841afb19e4974520032e4" name="laurentturek" />
+      </option>
+      <password>dfcedfcedfcedf93dfcbdfcfdf92df9edf9cdfcfdf98df9edf9cdfc9dfcbdf99dfcedfc9df93df98dfc9df99df9ddfccdf99df9cdf93dfc9df99df99dfccdf9fdf9adfcbdfcedf99dfccdf93dfc9dfcedf92df9cdf9bdfc8dfc8df9bdfc9df9fdf9cdfccdfcbdf9fdfcfdf99df9edfc8df9fdf92df9fdf9ddfc9dfc8dfc8df9f</password>
+      <option name="includeAllCards" value="true" />
+      <option name="loginAnonymously" value="false" />
+      <option name="preferredCloseTaskState" />
+      <option name="preferredOpenTaskState" />
+      <option name="shouldFormatCommitMessage" value="false" />
+      <option name="url" value="https://api.trello.com" />
+      <option name="useHttpAuthentication" value="false" />
+      <option name="useProxy" value="false" />
+      <username />
+    </Trello>
+  </component>
   <component name="RefactoringSettings">
     <option name="MOVE_PREVIEW_USAGES" value="false" />
     <option name="INTRODUCE_CONSTANT_VISIBILITY" value="public" />
