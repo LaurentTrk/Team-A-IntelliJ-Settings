@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Module 'fr.enovacom.osgi.secure.login.initdata'" />
-    <option name="defaultScopeName" value="Module 'fr.enovacom.osgi.secure.login.initdata'" />
-    <option name="SEARCH_SCOPE" value="Module 'fr.enovacom.osgi.secure.login.initdata'" />
+    <option name="customScope" value="Module 'fr.enovacom.osgi.secure.login.core'" />
+    <option name="defaultScopeName" value="Module 'fr.enovacom.osgi.secure.login.core'" />
+    <option name="SEARCH_SCOPE" value="Module 'fr.enovacom.osgi.secure.login.core'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.jsp</mask>
