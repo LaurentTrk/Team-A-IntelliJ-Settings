@@ -4,7 +4,7 @@
       <list>
         <LocalAnalysisScript>
           <option name="name" value="Sonar " />
-          <option name="pathToSonarReport" value="$WORKING_DIR/target/sonar/sonar-report.json" />
+          <option name="pathToSonarReport" value="$MODULE_BASE_DIR/target/sonar/sonar-report.json" />
           <option name="sourceCode" value="&quot;C:\Program Files\java\jdk7\bin\java&quot; &quot;-Dmaven.home=C:\Program Files (x86)\JetBrains\IntelliJ IDEA Community Edition 15.0.2\plugins\maven\lib\maven3&quot; &quot;-Dclassworlds.conf=C:\Program Files (x86)\JetBrains\IntelliJ IDEA Community Edition 15.0.2\plugins\maven\lib\maven3\bin\m2.conf&quot; -Didea.launcher.port=7532 &quot;-Didea.launcher.bin.path=C:\Program Files (x86)\JetBrains\IntelliJ IDEA Community Edition 15.0.2\bin&quot; -Dfile.encoding=UTF-8 -classpath &quot;C:\Program Files (x86)\JetBrains\IntelliJ IDEA Community Edition 15.0.2\plugins\maven\lib\maven3\boot\plexus-classworlds-2.4.jar;C:\Program Files (x86)\JetBrains\IntelliJ IDEA Community Edition 15.0.2\lib\idea_rt.jar&quot; com.intellij.rt.execution.application.AppMain org.codehaus.classworlds.Launcher -Didea.version=15.0.2 sonar:sonar -DskipTests=true -Djava.awt.headless=true -Dsonar.language=java -Dsonar.analysis.mode=incremental   -Dsonar.host.url=$SONAR_HOST_URL" />
         </LocalAnalysisScript>
       </list>
