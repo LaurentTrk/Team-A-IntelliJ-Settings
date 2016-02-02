@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Module 'smart-audit-agent'" />
-    <option name="defaultScopeName" value="Module 'smart-audit-agent'" />
-    <option name="SEARCH_SCOPE" value="Module 'smart-audit-agent'" />
+    <option name="customScope" value="Module 'smart-audit-agent-files-import'" />
+    <option name="defaultScopeName" value="Module 'smart-audit-agent-files-import'" />
+    <option name="SEARCH_SCOPE" value="Module 'smart-audit-agent-files-import'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.jsp</mask>
