@@ -1,9 +1,9 @@
 <application>
   <component name="FileTypeManager" version="16">
     <extensionMap>
-      <mapping pattern="markdown" type="Markdown" />
       <mapping pattern="todo" type="PLAIN_TEXT" />
       <mapping ext="5" type="PLAIN_TEXT" />
+      <mapping pattern="markdown" type="Markdown" />
     </extensionMap>
   </component>
 </application>
