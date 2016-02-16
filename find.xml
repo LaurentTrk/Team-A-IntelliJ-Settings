@@ -2,6 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="Module 'smart-audit-agent-files-import'" />
     <option name="defaultScopeName" value="Module 'smart-audit-agent-files-import'" />
+    <option name="localWholeWordsOnly" value="true" />
+    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Module 'smart-audit-agent-files-import'" />
     <recentFileMasks>
       <mask>*.properties</mask>
