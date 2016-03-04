@@ -1698,7 +1698,7 @@
               </Resource>
               <Resource>
                 <option name="creationDate" value="1454948459000" />
-                <option name="date" value="1456961746000" />
+                <option name="date" value="1457092980000" />
                 <option name="description" value="" />
                 <option name="id" value="15024" />
                 <option name="key" value="fr.enovacom.osgi.resources:enovacom-resources-server" />
@@ -1706,11 +1706,11 @@
                 <option name="name" value="Enovacom Resources Server" />
                 <option name="qualifier" value="TRK" />
                 <option name="scope" value="PRJ" />
-                <option name="version" value="1.0.1-SNAPSHOT" />
+                <option name="version" value="1.1.0-SNAPSHOT" />
               </Resource>
               <Resource>
                 <option name="creationDate" value="1454948459000" />
-                <option name="date" value="1456961746000" />
+                <option name="date" value="1457092980000" />
                 <option name="description" value="" />
                 <option name="id" value="15026" />
                 <option name="key" value="fr.enovacom.osgi.resources:enovacom-resources-server-api" />
@@ -1718,11 +1718,11 @@
                 <option name="name" value="Enovacom Resources Server - API" />
                 <option name="qualifier" value="BRC" />
                 <option name="scope" value="PRJ" />
-                <option name="version" value="1.0.1-SNAPSHOT" />
+                <option name="version" value="1.1.0-SNAPSHOT" />
               </Resource>
               <Resource>
                 <option name="creationDate" value="1454948459000" />
-                <option name="date" value="1456961746000" />
+                <option name="date" value="1457092980000" />
                 <option name="description" value="" />
                 <option name="id" value="15027" />
                 <option name="key" value="fr.enovacom.osgi.resources:enovacom-resources-server-core" />
@@ -1730,11 +1730,11 @@
                 <option name="name" value="Enovacom Resources Server - CORE" />
                 <option name="qualifier" value="BRC" />
                 <option name="scope" value="PRJ" />
-                <option name="version" value="1.0.1-SNAPSHOT" />
+                <option name="version" value="1.1.0-SNAPSHOT" />
               </Resource>
               <Resource>
                 <option name="creationDate" value="1454948459000" />
-                <option name="date" value="1456961746000" />
+                <option name="date" value="1457092980000" />
                 <option name="description" value="" />
                 <option name="id" value="15025" />
                 <option name="key" value="fr.enovacom.osgi.spring:spring-activator" />
@@ -1742,11 +1742,11 @@
                 <option name="name" value="Spring Activator" />
                 <option name="qualifier" value="BRC" />
                 <option name="scope" value="PRJ" />
-                <option name="version" value="1.0.1-SNAPSHOT" />
+                <option name="version" value="1.1.0-SNAPSHOT" />
               </Resource>
               <Resource>
                 <option name="creationDate" value="1454948460000" />
-                <option name="date" value="1456961746000" />
+                <option name="date" value="1457092980000" />
                 <option name="description" value="" />
                 <option name="id" value="15028" />
                 <option name="key" value="fr.enovacom.osgi.resources:enovacom-resources-server-features" />
@@ -1754,7 +1754,7 @@
                 <option name="name" value="enovacom-resources-server-features" />
                 <option name="qualifier" value="BRC" />
                 <option name="scope" value="PRJ" />
-                <option name="version" value="1.0.1-SNAPSHOT" />
+                <option name="version" value="1.1.0-SNAPSHOT" />
               </Resource>
               <Resource>
                 <option name="creationDate" value="1452696285000" />
@@ -4550,7 +4550,7 @@
               </Resource>
               <Resource>
                 <option name="creationDate" value="1407139404000" />
-                <option name="date" value="1456960071000" />
+                <option name="date" value="1457095652000" />
                 <option name="description" value="" />
                 <option name="id" value="4120" />
                 <option name="key" value="fr.enovacom.osgi.event:event" />
@@ -4558,11 +4558,11 @@
                 <option name="name" value="event" />
                 <option name="qualifier" value="TRK" />
                 <option name="scope" value="PRJ" />
-                <option name="version" value="2.1.4-SNAPSHOT" />
+                <option name="version" value="2.2.0-SNAPSHOT" />
               </Resource>
               <Resource>
                 <option name="creationDate" value="1407139404000" />
-                <option name="date" value="1456960071000" />
+                <option name="date" value="1457095652000" />
                 <option name="description" value="" />
                 <option name="id" value="4121" />
                 <option name="key" value="fr.enovacom.osgi.event:event-api" />
@@ -4570,11 +4570,11 @@
                 <option name="name" value="Enovacom Smart Audit - API" />
                 <option name="qualifier" value="BRC" />
                 <option name="scope" value="PRJ" />
-                <option name="version" value="2.1.4-SNAPSHOT" />
+                <option name="version" value="2.2.0-SNAPSHOT" />
               </Resource>
               <Resource>
                 <option name="creationDate" value="1407139404000" />
-                <option name="date" value="1456960071000" />
+                <option name="date" value="1457095652000" />
                 <option name="description" value="" />
                 <option name="id" value="4131" />
                 <option name="key" value="fr.enovacom.osgi.event:smart-audit-agent" />
@@ -4582,11 +4582,11 @@
                 <option name="name" value="Enovacom Smart Audit - Agent" />
                 <option name="qualifier" value="BRC" />
                 <option name="scope" value="PRJ" />
-                <option name="version" value="2.1.4-SNAPSHOT" />
+                <option name="version" value="2.2.0-SNAPSHOT" />
               </Resource>
               <Resource>
                 <option name="creationDate" value="1407139404000" />
-                <option name="date" value="1456960071000" />
+                <option name="date" value="1457095652000" />
                 <option name="description" value="" />
                 <option name="id" value="4132" />
                 <option name="key" value="fr.enovacom.osgi.event:smart-audit-agent-api" />
@@ -4594,11 +4594,11 @@
                 <option name="name" value="Enovacom Smart Audit - Agent API" />
                 <option name="qualifier" value="BRC" />
                 <option name="scope" value="PRJ" />
-                <option name="version" value="2.1.4-SNAPSHOT" />
+                <option name="version" value="2.2.0-SNAPSHOT" />
               </Resource>
               <Resource>
                 <option name="creationDate" value="1454368092000" />
-                <option name="date" value="1456960071000" />
+                <option name="date" value="1457095652000" />
                 <option name="description" value="" />
                 <option name="id" value="14893" />
                 <option name="key" value="fr.enovacom.osgi.event:smart-audit-agent-files-import" />
@@ -4606,11 +4606,11 @@
                 <option name="name" value="Enovacom Smart Audit - Agent Files" />
                 <option name="qualifier" value="BRC" />
                 <option name="scope" value="PRJ" />
-                <option name="version" value="2.1.4-SNAPSHOT" />
+                <option name="version" value="2.2.0-SNAPSHOT" />
               </Resource>
               <Resource>
                 <option name="creationDate" value="1417648929000" />
-                <option name="date" value="1456960071000" />
+                <option name="date" value="1457095652000" />
                 <option name="description" value="" />
                 <option name="id" value="7763" />
                 <option name="key" value="fr.enovacom.osgi.event:smart-audit-agent-jdbc" />
@@ -4618,11 +4618,11 @@
                 <option name="name" value="Enovacom Smart Audit - Agent JDBC" />
                 <option name="qualifier" value="BRC" />
                 <option name="scope" value="PRJ" />
-                <option name="version" value="2.1.4-SNAPSHOT" />
+                <option name="version" value="2.2.0-SNAPSHOT" />
               </Resource>
               <Resource>
                 <option name="creationDate" value="1412201392000" />
-                <option name="date" value="1456960071000" />
+                <option name="date" value="1457095652000" />
                 <option name="description" value="" />
                 <option name="id" value="5326" />
                 <option name="key" value="fr.enovacom.osgi.event:smart-audit-agent-osgi" />
@@ -4630,11 +4630,11 @@
                 <option name="name" value="Enovacom Smart Audit - Agent Osgi" />
                 <option name="qualifier" value="BRC" />
                 <option name="scope" value="PRJ" />
-                <option name="version" value="2.1.4-SNAPSHOT" />
+                <option name="version" value="2.2.0-SNAPSHOT" />
               </Resource>
               <Resource>
                 <option name="creationDate" value="1411078246000" />
-                <option name="date" value="1456960071000" />
+                <option name="date" value="1457095652000" />
                 <option name="description" value="" />
                 <option name="id" value="5269" />
                 <option name="key" value="fr.enovacom.osgi.event:smart-audit-agent-files" />
@@ -4642,11 +4642,11 @@
                 <option name="name" value="Enovacom Smart Audit - Agent Tail" />
                 <option name="qualifier" value="BRC" />
                 <option name="scope" value="PRJ" />
-                <option name="version" value="2.1.4-SNAPSHOT" />
+                <option name="version" value="2.2.0-SNAPSHOT" />
               </Resource>
               <Resource>
                 <option name="creationDate" value="1434492663000" />
-                <option name="date" value="1456960071000" />
+                <option name="date" value="1457095652000" />
                 <option name="description" value="" />
                 <option name="id" value="11240" />
                 <option name="key" value="fr.enovacom.osgi.event:smart-audit-agent-windows-event" />
@@ -4654,11 +4654,11 @@
                 <option name="name" value="Enovacom Smart Audit - Agent Windows Event" />
                 <option name="qualifier" value="BRC" />
                 <option name="scope" value="PRJ" />
-                <option name="version" value="2.1.4-SNAPSHOT" />
+                <option name="version" value="2.2.0-SNAPSHOT" />
               </Resource>
               <Resource>
                 <option name="creationDate" value="1407139404000" />
-                <option name="date" value="1456960071000" />
+                <option name="date" value="1457095652000" />
                 <option name="description" value="" />
                 <option name="id" value="4127" />
                 <option name="key" value="fr.enovacom.osgi.event:event-core" />
@@ -4666,11 +4666,11 @@
                 <option name="name" value="Enovacom Smart Audit - Core" />
                 <option name="qualifier" value="BRC" />
                 <option name="scope" value="PRJ" />
-                <option name="version" value="2.1.4-SNAPSHOT" />
+                <option name="version" value="2.2.0-SNAPSHOT" />
               </Resource>
               <Resource>
                 <option name="creationDate" value="1407139404000" />
-                <option name="date" value="1456960071000" />
+                <option name="date" value="1457095652000" />
                 <option name="description" value="" />
                 <option name="id" value="4122" />
                 <option name="key" value="fr.enovacom.osgi.event:event-ds" />
@@ -4678,11 +4678,11 @@
                 <option name="name" value="Enovacom Smart Audit - Data Source" />
                 <option name="qualifier" value="BRC" />
                 <option name="scope" value="PRJ" />
-                <option name="version" value="2.1.4-SNAPSHOT" />
+                <option name="version" value="2.2.0-SNAPSHOT" />
               </Resource>
               <Resource>
                 <option name="creationDate" value="1407139404000" />
-                <option name="date" value="1456960071000" />
+                <option name="date" value="1457095652000" />
                 <option name="description" value="" />
                 <option name="id" value="4125" />
                 <option name="key" value="fr.enovacom.osgi.event:event-es" />
@@ -4690,11 +4690,11 @@
                 <option name="name" value="Enovacom Smart Audit - Elasticsearch Client" />
                 <option name="qualifier" value="BRC" />
                 <option name="scope" value="PRJ" />
-                <option name="version" value="2.1.4-SNAPSHOT" />
+                <option name="version" value="2.2.0-SNAPSHOT" />
               </Resource>
               <Resource>
                 <option name="creationDate" value="1435789018000" />
-                <option name="date" value="1456960071000" />
+                <option name="date" value="1457095652000" />
                 <option name="description" value="" />
                 <option name="id" value="11341" />
                 <option name="key" value="fr.enovacom.osgi.event:smart-audit-formats" />
@@ -4702,11 +4702,11 @@
                 <option name="name" value="Enovacom Smart Audit - Formats" />
                 <option name="qualifier" value="BRC" />
                 <option name="scope" value="PRJ" />
-                <option name="version" value="2.1.4-SNAPSHOT" />
+                <option name="version" value="2.2.0-SNAPSHOT" />
               </Resource>
               <Resource>
                 <option name="creationDate" value="1407139404000" />
-                <option name="date" value="1456960071000" />
+                <option name="date" value="1457095652000" />
                 <option name="description" value="" />
                 <option name="id" value="4126" />
                 <option name="key" value="fr.enovacom.osgi.event:event-camel" />
@@ -4714,11 +4714,11 @@
                 <option name="name" value="Enovacom Smart Audit - Integration" />
                 <option name="qualifier" value="BRC" />
                 <option name="scope" value="PRJ" />
-                <option name="version" value="2.1.4-SNAPSHOT" />
+                <option name="version" value="2.2.0-SNAPSHOT" />
               </Resource>
               <Resource>
                 <option name="creationDate" value="1407139404000" />
-                <option name="date" value="1456960071000" />
+                <option name="date" value="1457095652000" />
                 <option name="description" value="" />
                 <option name="id" value="4123" />
                 <option name="key" value="fr.enovacom.osgi.event:event-persistence" />
@@ -4726,11 +4726,11 @@
                 <option name="name" value="Enovacom Smart Audit - Persistence" />
                 <option name="qualifier" value="BRC" />
                 <option name="scope" value="PRJ" />
-                <option name="version" value="2.1.4-SNAPSHOT" />
+                <option name="version" value="2.2.0-SNAPSHOT" />
               </Resource>
               <Resource>
                 <option name="creationDate" value="1423733246000" />
-                <option name="date" value="1456960071000" />
+                <option name="date" value="1457095652000" />
                 <option name="description" value="" />
                 <option name="id" value="8804" />
                 <option name="key" value="fr.enovacom.osgi.event:smart-audit-viewer" />
@@ -4738,11 +4738,11 @@
                 <option name="name" value="Enovacom Smart Audit - REST Viewer" />
                 <option name="qualifier" value="BRC" />
                 <option name="scope" value="PRJ" />
-                <option name="version" value="2.1.4-SNAPSHOT" />
+                <option name="version" value="2.2.0-SNAPSHOT" />
               </Resource>
               <Resource>
                 <option name="creationDate" value="1423733246000" />
-                <option name="date" value="1456960071000" />
+                <option name="date" value="1457095652000" />
                 <option name="description" value="" />
                 <option name="id" value="8803" />
                 <option name="key" value="fr.enovacom.osgi.event:smart-audit-rest" />
@@ -4750,11 +4750,11 @@
                 <option name="name" value="Enovacom Smart Audit - REST services" />
                 <option name="qualifier" value="BRC" />
                 <option name="scope" value="PRJ" />
-                <option name="version" value="2.1.4-SNAPSHOT" />
+                <option name="version" value="2.2.0-SNAPSHOT" />
               </Resource>
               <Resource>
                 <option name="creationDate" value="1407139404000" />
-                <option name="date" value="1456960071000" />
+                <option name="date" value="1457095652000" />
                 <option name="description" value="" />
                 <option name="id" value="4129" />
                 <option name="key" value="fr.enovacom.osgi.event:event-web" />
@@ -4762,11 +4762,11 @@
                 <option name="name" value="Enovacom Smart Audit - Web" />
                 <option name="qualifier" value="BRC" />
                 <option name="scope" value="PRJ" />
-                <option name="version" value="2.1.4-SNAPSHOT" />
+                <option name="version" value="2.2.0-SNAPSHOT" />
               </Resource>
               <Resource>
                 <option name="creationDate" value="1446940519000" />
-                <option name="date" value="1456960071000" />
+                <option name="date" value="1457095652000" />
                 <option name="description" value="" />
                 <option name="id" value="13152" />
                 <option name="key" value="fr.enovacom.osgi.event:commons-features" />
@@ -4774,11 +4774,11 @@
                 <option name="name" value="commons-features" />
                 <option name="qualifier" value="BRC" />
                 <option name="scope" value="PRJ" />
-                <option name="version" value="2.1.4-SNAPSHOT" />
+                <option name="version" value="2.2.0-SNAPSHOT" />
               </Resource>
               <Resource>
                 <option name="creationDate" value="1407139404000" />
-                <option name="date" value="1456960071000" />
+                <option name="date" value="1457095652000" />
                 <option name="description" value="" />
                 <option name="id" value="4130" />
                 <option name="key" value="fr.enovacom.osgi.event:event-features" />
@@ -4786,11 +4786,11 @@
                 <option name="name" value="event-features" />
                 <option name="qualifier" value="BRC" />
                 <option name="scope" value="PRJ" />
-                <option name="version" value="2.1.4-SNAPSHOT" />
+                <option name="version" value="2.2.0-SNAPSHOT" />
               </Resource>
               <Resource>
                 <option name="creationDate" value="1407139404000" />
-                <option name="date" value="1456960071000" />
+                <option name="date" value="1457095652000" />
                 <option name="description" value="" />
                 <option name="id" value="4128" />
                 <option name="key" value="fr.enovacom.osgi.event:smart-audit-doc" />
@@ -4798,7 +4798,7 @@
                 <option name="name" value="smart-audit-doc" />
                 <option name="qualifier" value="BRC" />
                 <option name="scope" value="PRJ" />
-                <option name="version" value="2.1.4-SNAPSHOT" />
+                <option name="version" value="2.2.0-SNAPSHOT" />
               </Resource>
               <Resource>
                 <option name="creationDate" value="1452382244000" />
